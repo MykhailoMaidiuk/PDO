@@ -5,7 +5,7 @@ _Jak by měl vypadat návod k použití, aby se průměrnému uživateli s kávo
 ## 1. Jednoduchost a srozumitelnost
 
 **Proč?**  
-Kávovary jsou nejčastěji v hromadných městech, kde jsou lidé neustále v pohybu a nemají čas číst složité návody.  
+Kávovary jsou nejčastěji v hromadných místech, kde jsou lidé neustále v pohybu a nemají čas číst složité návody.  
 Jednoduché a stručné pokyny zajistí, že obsluha bude rychlá a intuitivní. Také může uživatelem kávovaru být i cizinec.
 
 **Jak?**  
