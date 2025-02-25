@@ -41,3 +41,10 @@ Hlasová navigace zlepší přístupnost a usnadní obsluhu.
 - Přátelský tón – automat může oznámit dokončení (**"Vaše káva je připravena, přeji krásný den!"**).
 - Hlasová asistence by neměla být rychlá, měla by být vyslovována zřetelně a bez zaváhání.
 
+## 4. Příklad
+- Zvol si napoj (stiskni ikonku s kávou)
+- Uprav si cukr (pokud je potřeba)
+- Zvol si způsob platby a zaplať (karta nebo mince)
+- Nápoj se připravuje, počkej na něj
+- Odeber svoji kávu
+
