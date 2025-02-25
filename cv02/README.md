@@ -14,6 +14,7 @@ Funguje na principu páky:
 2. zahákněte otvor otvíráku za spodní část víčka
 3. opřete horní část otvíráku o víčko
 4. vytáhněte rukojeť otvíráku
+
 https://github.com/user-attachments/assets/59ba63aa-641a-4494-8511-9e2c6027e4bc
 
  nahoru.
