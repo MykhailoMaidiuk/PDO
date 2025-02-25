@@ -13,16 +13,13 @@ Funguje na principu páky:
 1. vezměte si do jedné ruky láhev a do druhé otvírák
 2. zahákněte otvor otvíráku za spodní část víčka
 3. opřete horní část otvíráku o víčko
-4. vytáhněte rukojeť otvíráku
+4. vytáhněte rukojeť otvíráku nahoru.
 
 https://github.com/user-attachments/assets/59ba63aa-641a-4494-8511-9e2c6027e4bc
 
- nahoru.
-
 ### Návod na použití 2.
+1. Tuk-tuk
+2. Tak-tak
+3. Pššššš
 https://github.com/user-attachments/assets/cc31c2c1-a451-41ce-a6f9-8329d6daa3b9
-
-
-
-
 
